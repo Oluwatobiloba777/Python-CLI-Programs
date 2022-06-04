@@ -1,4 +1,4 @@
-Rock Paper Scissor
+
 Rock Paper Scissor Command Line Interface
 
 How To Play
