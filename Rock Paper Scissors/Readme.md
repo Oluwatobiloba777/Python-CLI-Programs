@@ -7,5 +7,4 @@ Rule 1: If you choose to play Rock input "R" Rule 2: If you choose to play Paper
 
 Rock("R") bangs Scissors("S")  Paper("P") wraps Rock("R") Scissors("S") cuts Paper("P")
 
-History of Rock Paper Scissors
-link: https://en.wikipedia.org/wiki/Rock_paper_scissors
+History of Rock Paper Scissors : https://en.wikipedia.org/wiki/Rock_paper_scissors
